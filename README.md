@@ -109,7 +109,7 @@ The model is evaluated using:
    ```
 4. Run the script:
    ```bash
-   python wine_classifier.py
+   python WineClassifierKNNModelVisualizationFinal.py
    ```
 
 ---
