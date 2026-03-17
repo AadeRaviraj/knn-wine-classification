@@ -131,4 +131,6 @@ The model is evaluated using:
 
 ## Author
 
+**Raviraj Aade**
+
 Built as part of a **Machine Learning Case Study** series to understand distance-based classification algorithms and the importance of feature scaling and hyperparameter tuning.
